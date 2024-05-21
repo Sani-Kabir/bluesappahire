@@ -1,0 +1,29 @@
+BASICS
+Setting Up All Required Tools 
+
+
+Variables
+Data Types
+Mathematical Operators
+Conditiooal Statements
+Getting Input From The User
+Function And Parameter
+
+
+Data Types
+
+String
+Number
+Bool
+Sequence
+
+SEQUENCE
+list
+turple
+set 
+dictionary
+
+NUMBER Types
+Int ( Integer )
+Float (Floating Point )
+Complex Number
